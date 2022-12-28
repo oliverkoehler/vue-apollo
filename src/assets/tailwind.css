@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+  font-family: "Wishborne";
+  src: url("../../public/assets/font/Wishborne.otf")
+}
